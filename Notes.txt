@@ -1,0 +1,12 @@
+Web Application:
+	Static web page : HTML
+	Dynamic web page : Servlet Or JSP
+
+HTML:
+	Hyper text markup language
+	.html
+	.htm
+
+We can use Notepad or Visual Studio code
+
+Predefined tag that gives response accordingly.
